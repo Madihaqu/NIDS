@@ -1,0 +1,6 @@
+{
+  "name": "Hybrid NIDS - Pure Static SOC & ML Engine",
+  "description": "Browser-native Network Intrusion Detection System featuring dual-engine ML (Random Forest + Isolation Forest), live traffic telemetry, flow inspector sandbox, and CIC-IDS CSV parser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
